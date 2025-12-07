@@ -5,18 +5,21 @@
     <a href="https://0bsyd1an.github.io/">
         <img src="https://img.shields.io/badge/ACCESS_MAIN_PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=101010" height="40" />
     </a>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/">
+    <a href="https://www.linkedin.com/in/sujan-r-v-2501b4292/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
     </a>
-    <a href="mailto:YOUR_EMAIL@GMAIL.COM">
+    <a href="mailto:sujanrv99@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+    </a>
+    <a href="https://github.com/0bSyd1aN/0bSyd1aN/raw/main/resume.pdf">
+        <img src="https://img.shields.io/badge/Download_My_Resume-white?style=for-the-badge&logo=read-the-docs&logoColor=black" height="40" />
     </a>
 </div>
 <br>
 
 
 # <img src="./assets/fire_cropped.gif" width="30"> Welcome to My Command Center <img src="./assets/fire_cropped.gif" width="30">
-I am **Sujan**, a Full Stack Developer and AI Engineer architecting the future.<br>
+I am **0bSyd1aN**, a Full Stack Developer and AI Engineer architecting the future.<br>
 My mission is to build immersive digital experiences and intelligent systems.<br>
 Enter my portfolio above to inspect my projects.
 
