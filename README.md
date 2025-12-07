@@ -34,13 +34,3 @@ My mission is to build immersive digital experiences and intelligent systems.<br
 | **Backend** | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) |
 | **AI & Deep Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-black?style=for-the-badge&logo=openai&logoColor=white) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB-%234ea94b](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
-
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/0bSyd1aN">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=0bSyd1aN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=20C20E&icon_color=20C20E" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0bSyd1aN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=20C20E" />
-  </a>
-</div>
