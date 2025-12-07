@@ -40,24 +40,3 @@
   <img src="https://img.shields.io/badge/Deep%20Learning-black?style=for-the-badge&logo=openai&logoColor=white" />
   
 </div>
-
-<br />
-
-### 📊 DATA STREAM
-
-<div align="center">
-  <a href="https://github.com/0bSyd1aN">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=0bSyd1aN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=20C20E&icon_color=20C20E" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0bSyd1aN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=20C20E" />
-  </a>
-</div>
-
-<br />
-
-<div align="center"> 
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0bSyd1aN&theme=tokyonight&hide_border=true&background=0d1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" />
-  </a>
-</div>
-
-</div>
