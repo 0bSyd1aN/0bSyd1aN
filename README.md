@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**0bSyd1aN/0bSyd1aN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to My Universe
 
-Here are some ideas to get you started:
+### Full Stack Developer | 3D Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://0bsyd1an.github.io/">
+  <img src="https://img.shields.io/badge/ENTER_PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=white&height=50" alt="Enter Portfolio" height="50" />
+</a>
+
+<br />
+
+Click the button above to view my 3D Interactive Portfolio.
+
+</div>
