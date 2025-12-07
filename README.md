@@ -1,9 +1,9 @@
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%">
+<img src="https://github.com/0bSyd1aN/0bSyd1aN/raw/main/assets/readme_animation.gif" width="100%">
 
 <br>
 <div align="center">
     <a href="https://0bsyd1an.github.io/">
-        <img src="https://img.shields.io/badge/ACCESS_MAIN_PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=101010" height="40" />
+        <img src="https://img.shields.io/badge/ACCESS_MY_PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=101010" height="40" />
     </a>
     <a href="https://www.linkedin.com/in/sujan-r-v-2501b4292/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
@@ -11,20 +11,16 @@
     <a href="mailto:sujanrv99@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
     </a>
-    <a href="https://github.com/0bSyd1aN/0bSyd1aN/raw/main/resume.pdf">
-        <img src="https://img.shields.io/badge/Download_My_Resume-white?style=for-the-badge&logo=read-the-docs&logoColor=black" height="40" />
+    <a href="https://github.com/0bSyd1aN/0bSyd1aN/raw/main/assets/Sujan_Resume.pdf">
+        <img src="https://img.shields.io/badge/Download_My_Resume-white?style=for-the-badge" alt="Kartik's Resume https://github.com/kartik-99/kartik-99/raw/main/assets/Kartik_J_Resume.pdf" />
     </a>
 </div>
 <br>
 
 
-# <img src="./assets/fire_cropped.gif" width="30"> Welcome to My Command Center <img src="./assets/fire_cropped.gif" width="30">
-I am **0bSyd1aN**, a Full Stack Developer and AI Engineer architecting the future.<br>
+# <img src="./assets/fire_cropped.gif" width="40">  Welcome to my profile <img src="./assets/fire_cropped.gif" width="40"> 
+I am **Sujan**, a Full Stack Developer and AI Engineer architecting the future.<br>
 My mission is to build immersive digital experiences and intelligent systems.<br>
-Enter my portfolio above to inspect my projects.
-
-[🔭 **Currently exploring advanced 3D web graphics and generative AI**](https://0bsyd1an.github.io/)
-
 
 <h1 style="display: flex; align-items: center;">
   <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="35" style="margin-right: 10px;">
