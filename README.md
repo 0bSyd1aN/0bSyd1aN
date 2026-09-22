@@ -12,7 +12,7 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
     </a>
     <a href="https://github.com/0bSyd1aN/0bSyd1aN/raw/main/assets/Sujan_Resume.pdf">
-        <img src="https://img.shields.io/badge/Download_My_Resume-white?style=for-the-badge" alt="Kartik's Resume https://github.com/kartik-99/kartik-99/raw/main/assets/Kartik_J_Resume.pdf" />
+        <img src="https://img.shields.io/badge/Download_My_Resume-white?style=for-the-badge" alt="Sujan's Resume https://github.com/0bSyd1aN/0bSyd1aN/raw/main/assets/Sujan_Resume.pdf" />
     </a>
 </div>
 <br>
